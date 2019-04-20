@@ -1,5 +1,4 @@
 # What will be my new recruit's salary?
----
 
 The goal of this project is to build a model that would help predict salaries for a particular job/role based on known salary data. This dataset was scrapped from one of the job boards and is a quite simplified version of the real world job market.
 
